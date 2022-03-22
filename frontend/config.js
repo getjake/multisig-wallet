@@ -1,0 +1,1 @@
+export const multisigwalletaddress = "0x052D6dbF358a21E008E60b08DeBd674f93B7654c"
