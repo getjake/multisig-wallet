@@ -45,4 +45,4 @@ npx vc
 
 ## Demo site
 
-https://multisig-wallet-orcin.vercel.app
+https://demo-multisigwallet.jakez.dev/
